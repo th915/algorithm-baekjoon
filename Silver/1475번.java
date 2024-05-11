@@ -7,7 +7,7 @@ import java.io.*;
  * 코드 길이 : 640 B
  *
  * @author 이태희
- * @see https://www.acmicpc.net/problem/3273
+ * @see https://www.acmicpc.net/problem/1475
  */
 
 public class Main {
